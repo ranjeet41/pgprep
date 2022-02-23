@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+/* main {
+    margin: 16px;
+} */
+
+.navbar {
+    
+    align-items: center;
+    background: #FFFFFF;
+    color: #444444;
+    font-family: Helvetica;
+    font-weight: 300;
+    font: normal normal medium 16px/21px Roboto;
+    position: fixed;
+    top:0;
+    width: 100%;
+    z-index: 8;
+}
+
+
+.profile_img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+
+}

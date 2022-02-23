@@ -1,0 +1,109 @@
+
+.Main{
+    margin-left:14%;
+    margin-top:50px;
+    width: 85%;
+    height:100%;
+    z-index: 0;
+    margin-bottom: 50px;
+   
+}
+
+.card1{
+min-width: 100px;
+height: 130px;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #4755A447;
+border-radius: 17px;
+opacity: 1;
+text-align:center;
+vertical-align: center;
+margin:30px 30px auto auto;
+color: #000350;
+font-size:18px;
+font-weight: 900;
+}
+.card1_row{
+top: 130px;
+left: 293px;
+width: 32px;
+height: 35px;
+opacity: 1;
+font: normal normal medium 18px/27px Poppins;
+
+
+}
+.card2{
+    height: 120px;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #4755A447;
+    border-radius: 17px;
+    opacity: 1;
+    text-align:center;
+    vertical-align: center;
+    margin:30px auto auto auto;
+    color: #000350;
+    font-size:16px;
+    
+    }
+
+
+.card3{
+max-width: 32%;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #4755A447;
+border-radius: 17px;
+opacity: 1;
+text-align:center;
+vertical-align: center;
+margin:30px 30px 0 0;
+
+color: #000350;
+font-size:18px;
+font-weight: 900;
+}
+
+.icon_back{
+    height: 30px;
+    width: 30px;
+    border-radius: 100px;
+    background-color: rgb(169,211,255);
+}
+
+.card4{
+    width: 121px;
+height: 250px;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #4755A447;
+border-radius: 17px;
+opacity: 1;
+text-align:center;
+vertical-align: center;
+margin:30px 30px auto auto;
+color: #000350;
+font-size:18px;
+font-weight: 900;
+}
+
+
+
+
+.card5{
+    width: 121px;
+height: 400px;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #4755A447;
+border-radius: 17px;
+opacity: 1;
+text-align:center;
+vertical-align: center;
+margin:30px 30px auto auto;
+color: #000350;
+font-size:18px;
+font-weight: 900;
+}
